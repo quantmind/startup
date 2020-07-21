@@ -15,7 +15,6 @@ On a daily basis you will
 ### Requirements
 
 - Degree/Master/PhD in computer science or engineering
-- Interest and/or experience in blockchain technology
 - Knowledge and experience of at least one between python/node.js/rust/go
 - Data Structures and Algorithms
 - Distributed and asynchronous programming
