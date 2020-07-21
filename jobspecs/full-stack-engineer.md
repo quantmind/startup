@@ -1,6 +1,6 @@
 ## Lead Full-stack Engineer
 
-The successful applicant will be part of the front-end team which is responsible for microservices serving both web applications as well as Restful APIs. The role does not require strong dev-ops skills, however knowledge of best practices in continuous integration and deployment is beneficial.
+The successful applicant will be part of the front-end team which is responsible for micro-services serving both web applications as well as Restful APIs. The role does not require strong dev-ops skills, however knowledge of best practices in continuous integration and deployment is beneficial.
 
 `<THE PRODUCT DESCRIPTION>`
 

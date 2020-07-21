@@ -1,6 +1,6 @@
 ## Backend Engineer
 
-We are looking for talented and proactive software engineers to work on our backend system.
+We are looking for talented and proactive software engineer to work on our backend system.
 
 `<THE PRODUCT DESCRIPTION>`
 
